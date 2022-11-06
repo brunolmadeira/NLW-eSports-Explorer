@@ -4,7 +4,7 @@
 
 ![preview](./.github/preview.png)
 
-Projeto contruído no evento Next Level Wekk da Rocketseat
+Projeto construído no evento Next Level Wekk da Rocketseat
 
 [Clique aqui para acessar](https://brunolmadeira.github.io/NLW-eSports-Explorer/)
 
